@@ -92,3 +92,9 @@ E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\obj\Debug\net6.0\refint\TastA.d
 E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\obj\Debug\net6.0\TastA.pdb
 E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\obj\Debug\net6.0\TastA.genruntimeconfig.cache
 E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\obj\Debug\net6.0\ref\TastA.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\Npgsql.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\System.Text.Json.dll
+E:\exam\ASP.NET-6-MVC-Assessment-v4\TASK_A\TaskA\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

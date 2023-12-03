@@ -17,3 +17,16 @@ var outputFileName = "Products.json";
 Console.WriteLine($"Writting Products To JSON File.");
 JsonFileUtils.SimpleWrite(products, outputFileName);
 Console.WriteLine($"Completed File Writing To JSON. File Path {Path.Combine(AppDomain.CurrentDomain.BaseDirectory, outputFileName)}");
+
+Console.WriteLine($"Checking if table exits");
+var tableExits = Repository.TableExists();
+
+if(!tableExits)
+{
+    Console.WriteLine($"Creting Table");
+    Repository.CreateTable();
+}
+Console.WriteLine("Saving Data To Database");
+Repository.SaveProducts(products);
+Console.WriteLine($"Completed");
+
